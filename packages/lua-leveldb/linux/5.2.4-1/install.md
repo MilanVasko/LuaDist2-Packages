@@ -58,4 +58,4 @@
 
 ### lua-leveldb 0.4-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lua-leveldb 0.4-1/lua-leveldb-0.4-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-leveldb 0.4-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'lua-leveldb 0.4-1': Unhandled rockspec build type: "make"
