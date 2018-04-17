@@ -89,4 +89,4 @@
 
 ### luajson 1.3.4-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luajson 1.3.4-1/luajson-1.3.4-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luajson 1.3.4-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'luajson 1.3.4-1': Unhandled rockspec build type: "module"
