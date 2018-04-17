@@ -58,4 +58,4 @@
 
 ### luaprofiler 2.0.2-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luaprofiler 2.0.2-2/luaprofiler-2.0.2-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luaprofiler 2.0.2-2': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'luaprofiler 2.0.2-2': Unhandled rockspec build type: "module"
