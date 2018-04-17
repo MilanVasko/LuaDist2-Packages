@@ -58,4 +58,4 @@
 
 ### luajit-gumbo 0.1-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/luajit-gumbo 0.1-2/luajit-gumbo-0.1-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luajit-gumbo 0.1-2': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luajit-gumbo 0.1-2': Unhandled rockspec build type: "make"
