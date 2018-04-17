@@ -58,4 +58,4 @@
 
 ### luayaml 0.5.6-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luayaml 0.5.6-1/luayaml-0.5.6-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luayaml 0.5.6-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'luayaml 0.5.6-1': Unhandled rockspec build type: "module"
