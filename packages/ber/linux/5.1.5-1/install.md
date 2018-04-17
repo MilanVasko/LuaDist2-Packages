@@ -58,4 +58,4 @@
 
 ### ber 0.3.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/ber 0.3.1-1/ber-0.3.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'ber 0.3.1-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'ber 0.3.1-1': Unhandled rockspec build type: "make"
