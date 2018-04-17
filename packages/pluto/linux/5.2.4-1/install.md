@@ -58,4 +58,4 @@
 
 ### pluto 2.4-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/pluto 2.4-1/pluto-2.4-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'pluto 2.4-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'pluto 2.4-1': Unhandled rockspec build type: "module"
