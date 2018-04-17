@@ -58,4 +58,4 @@
 
 ### odielak 1.3-3
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/odielak 1.3-3/odielak-1.3-3.rockspec'
-- **Error:** Could not generate cmake commands for package 'odielak 1.3-3': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'odielak 1.3-3': Unhandled rockspec build type: "command"
