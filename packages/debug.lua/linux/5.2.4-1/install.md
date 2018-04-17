@@ -70,4 +70,4 @@
 
 ### termfx 0.7.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/termfx 0.7.1-1/termfx-0.7.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'termfx 0.7.1-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'termfx 0.7.1-1': Unhandled rockspec build type: "make"
