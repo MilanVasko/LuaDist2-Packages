@@ -58,4 +58,4 @@
 
 ### lua-string-test 1.0-0
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lua-string-test 1.0-0/lua-string-test-1.0-0.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-string-test 1.0-0': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'lua-string-test 1.0-0': Unhandled rockspec build type: "module"
