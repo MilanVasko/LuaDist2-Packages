@@ -89,4 +89,4 @@
 
 ### refser 0.2-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/refser 0.2-1/refser-0.2-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'refser 0.2-1': Unhandled rockspec build type: cpp
+- **Error:** Could not generate cmake commands for package 'refser 0.2-1': Unhandled rockspec build type: "cpp"
