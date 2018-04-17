@@ -58,4 +58,4 @@
 
 ### luarocks 2.4.4-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/luarocks 2.4.4-1/luarocks-2.4.4-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luarocks 2.4.4-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luarocks 2.4.4-1': Unhandled rockspec build type: "make"
