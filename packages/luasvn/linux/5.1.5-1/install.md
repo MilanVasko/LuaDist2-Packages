@@ -58,4 +58,4 @@
 
 ### luasvn 0.4.0-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luasvn 0.4.0-1/luasvn-0.4.0-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luasvn 0.4.0-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luasvn 0.4.0-1': Unhandled rockspec build type: "make"
