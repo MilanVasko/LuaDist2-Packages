@@ -58,4 +58,4 @@
 
 ### radarchart 1.0.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/radarchart 1.0.1-1/radarchart-1.0.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'radarchart 1.0.1-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'radarchart 1.0.1-1': Unhandled rockspec build type: "module"
