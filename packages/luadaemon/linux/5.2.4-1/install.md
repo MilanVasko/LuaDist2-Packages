@@ -58,4 +58,4 @@
 
 ### luadaemon 1.0.0-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/luadaemon 1.0.0-1/luadaemon-1.0.0-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luadaemon 1.0.0-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luadaemon 1.0.0-1': Unhandled rockspec build type: "make"
