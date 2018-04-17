@@ -82,4 +82,4 @@
 
 ### luaposix 33.2.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luaposix 33.2.1-1/luaposix-33.2.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luaposix 33.2.1-1': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'luaposix 33.2.1-1': Unhandled rockspec build type: "command"
