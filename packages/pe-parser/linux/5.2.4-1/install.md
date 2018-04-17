@@ -77,7 +77,7 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/pe-parser 0.5.0-2-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'pe-parser 0.5.0-2' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/pe-parser 0.5.0-2-build'
+- **Error:** Could not install package 'pe-parser 0.5.0-2' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/pe-parser 0.5.0-2-build'
 stdout:
 -- Install configuration: ""
 
