@@ -58,4 +58,4 @@
 
 ### bcrypt 2.1-4
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/bcrypt 2.1-4/bcrypt-2.1-4.rockspec'
-- **Error:** Cound not generate cmake commands for package 'bcrypt 2.1-4': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'bcrypt 2.1-4': Unhandled rockspec build type: "make"
