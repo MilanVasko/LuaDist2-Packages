@@ -58,4 +58,4 @@
 
 ### lua-apr 0.20.6-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/lua-apr 0.20.6-1/lua-apr-0.20.6-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-apr 0.20.6-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'lua-apr 0.20.6-1': Unhandled rockspec build type: "make"
