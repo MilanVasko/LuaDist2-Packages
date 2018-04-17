@@ -58,4 +58,4 @@
 
 ### alien 0.7.1-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/alien 0.7.1-2/alien-0.7.1-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'alien 0.7.1-2': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'alien 0.7.1-2': Unhandled rockspec build type: "command"
