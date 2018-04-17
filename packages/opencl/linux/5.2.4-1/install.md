@@ -58,4 +58,4 @@
 
 ### opencl 1.2.0-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/opencl 1.2.0-1/opencl-1.2.0-1.rockspec'
-- **Error:** Could not generate cmake commands for package 'opencl 1.2.0-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'opencl 1.2.0-1': Unhandled rockspec build type: "make"
