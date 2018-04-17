@@ -77,7 +77,7 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/luastepper 1.16.06.17-1-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'luastepper 1.16.06.17-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/luastepper 1.16.06.17-1-build'
+- **Error:** Could not install package 'luastepper 1.16.06.17-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/luastepper 1.16.06.17-1-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/share/luastepper
