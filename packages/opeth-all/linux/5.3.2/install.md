@@ -20,7 +20,7 @@
 - luafilesystem 1.7.0-2
 - moonscript 0.5.0-1
 - opeth-core 0.0-2
-- argparse 0.5.0-1
+- argparse 0.6.0-1
 - luasocket 3.0rc1-2
 - opeth-opeth 0.0-2
 - inspect 3.1.1-0
@@ -50,9 +50,9 @@
 - **opeth-core 0.0-2**
     - **remote:** git://github.com/LuaDist-testing/opeth-core.git
     - **local:** /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-core 0.0-2
-- **argparse 0.5.0-1**
+- **argparse 0.6.0-1**
     - **remote:** git://github.com/LuaDist-testing/argparse.git
-    - **local:** /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.5.0-1
+    - **local:** /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1
 - **luasocket 3.0rc1-2**
     - **remote:** git://github.com/LuaDist-testing/luasocket.git
     - **local:** /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2
@@ -243,10 +243,10 @@
 - *hint:* If you wish to keep these directories, set the debug flag
 - Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
 
-### argparse 0.5.0-1
-- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.5.0-1/argparse-0.5.0-1.rockspec'
-- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.5.0-1'
-- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.5.0-1-build'
+### argparse 0.6.0-1
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1/argparse-0.6.0-1.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1-build'
 - **CMake Variables:**
     - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
     - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
@@ -263,16 +263,225 @@
     - `INSTALL_LIB` = lib
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
-- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.5.0-1-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'argparse 0.5.0-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.5.0-1-build'
-stdout:
--- Install configuration: ""
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse 0.6.0-1-build'
 
-stderr:
-CMake Error at cmake_install.cmake:36 (file):
-  file INSTALL cannot find
-  "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/argparse
-  0.5.0-1/doc".
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
 
+### luasocket 3.0rc1-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2/luasocket-3.0rc1-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luasocket 3.0rc1-2-build'
 
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
 
+### opeth-opeth 0.0-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-opeth 0.0-2/opeth-opeth-0.0-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-opeth 0.0-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-opeth 0.0-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-opeth 0.0-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-opeth 0.0-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-opeth 0.0-2-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
+
+### inspect 3.1.1-0
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/inspect 3.1.1-0/inspect-3.1.1-0.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/inspect 3.1.1-0'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/inspect 3.1.1-0-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/inspect 3.1.1-0-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/inspect 3.1.1-0'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/inspect 3.1.1-0-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
+
+### opeth-moonstep 0.0-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-moonstep 0.0-2/opeth-moonstep-0.0-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-moonstep 0.0-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-moonstep 0.0-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-moonstep 0.0-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-moonstep 0.0-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-moonstep 0.0-2-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
+
+### graphviz v1.0-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/graphviz v1.0-2/graphviz-v1.0-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/graphviz v1.0-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/graphviz v1.0-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/graphviz v1.0-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/graphviz v1.0-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/graphviz v1.0-2-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
+
+### opeth-lvis 0.0-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lvis 0.0-2/opeth-lvis-0.0-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lvis 0.0-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lvis 0.0-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lvis 0.0-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lvis 0.0-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lvis 0.0-2-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
+
+### opeth-lasm 0.0-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lasm 0.0-2/opeth-lasm-0.0-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lasm 0.0-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lasm 0.0-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lasm 0.0-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lasm 0.0-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-lasm 0.0-2-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
+
+### opeth-all 0.0-2
+- Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-all 0.0-2/opeth-all-0.0-2.rockspec'
+- Generated CMake file in '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-all 0.0-2'
+- Building into '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-all 0.0-2-build'
+- **CMake Variables:**
+    - `CMAKE_BUILD_WITH_INSTALL_RPATH` = FALSE
+    - `CMAKE_INCLUDE_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/include
+    - `CMAKE_INSTALL_NAME_DIR` = @executable_path/../lib
+    - `CMAKE_INSTALL_PREFIX` = /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2
+    - `CMAKE_INSTALL_RPATH` = $ORIGIN/../lib
+    - `CMAKE_INSTALL_RPATH_USE_LINK_PATH` = TRUE
+    - `CMAKE_LIBRARY_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/lib;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_PROGRAM_PATH` = ;/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/bin
+    - `CMAKE_SKIP_BUILD_RPATH` = FALSE
+    - `INSTALL_BIN` = bin
+    - `INSTALL_CMOD` = lib/lua
+    - `INSTALL_ETC` = etc
+    - `INSTALL_LIB` = lib
+    - `INSTALL_LMOD` = lib/lua
+    - `INSTALL_SHARE` = share
+- Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-all 0.0-2-build" && cmake -P cmake_install.cmake'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-all 0.0-2'
+- Removing '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/opeth-all 0.0-2-build'
+
+- *hint:* If you wish to keep these directories, set the debug flag
+- Updating local manifest at '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/luadist2/manifest-file'
