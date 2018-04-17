@@ -77,7 +77,7 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/husl 1.0-0-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'husl 1.0-0' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/husl 1.0-0-build'
+- **Error:** Could not install package 'husl 1.0-0' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/husl 1.0-0-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/husl
