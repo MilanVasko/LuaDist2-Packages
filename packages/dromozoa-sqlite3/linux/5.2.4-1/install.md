@@ -89,4 +89,4 @@
 
 ### dromozoa-sqlite3 1.13-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/dromozoa-sqlite3 1.13-1/dromozoa-sqlite3-1.13-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'dromozoa-sqlite3 1.13-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'dromozoa-sqlite3 1.13-1': Unhandled rockspec build type: "make"
