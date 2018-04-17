@@ -77,7 +77,7 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/lor 0.0.5-2-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'lor 0.0.5-2' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/lor 0.0.5-2-build'
+- **Error:** Could not install package 'lor 0.0.5-2' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/lor 0.0.5-2-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/lor
