@@ -58,4 +58,4 @@
 
 ### arc4random 1.3-4
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/arc4random 1.3-4/arc4random-1.3-4.rockspec'
-- **Error:** Cound not generate cmake commands for package 'arc4random 1.3-4': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'arc4random 1.3-4': Unhandled rockspec build type: "make"
