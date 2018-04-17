@@ -58,4 +58,4 @@
 
 ### luanotify 0.2-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luanotify 0.2-1/luanotify-0.2-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luanotify 0.2-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luanotify 0.2-1': Unhandled rockspec build type: "make"
