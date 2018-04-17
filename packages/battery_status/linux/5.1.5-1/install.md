@@ -70,4 +70,4 @@
 
 ### lgi 0.7.2-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/lgi 0.7.2-1/lgi-0.7.2-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lgi 0.7.2-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'lgi 0.7.2-1': Unhandled rockspec build type: "make"
