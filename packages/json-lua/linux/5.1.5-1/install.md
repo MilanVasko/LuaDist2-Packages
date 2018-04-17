@@ -58,4 +58,4 @@
 
 ### json-lua 0.1-3
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/json-lua 0.1-3/json-lua-0.1-3.rockspec'
-- **Error:** Cound not generate cmake commands for package 'json-lua 0.1-3': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'json-lua 0.1-3': Unhandled rockspec build type: "module"
