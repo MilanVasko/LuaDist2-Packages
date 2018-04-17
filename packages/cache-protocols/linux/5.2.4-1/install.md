@@ -170,7 +170,7 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/cache-protocols 0.1.0-2-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'cache-protocols 0.1.0-2' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/cache-protocols 0.1.0-2-build'
+- **Error:** Could not install package 'cache-protocols 0.1.0-2' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/cache-protocols 0.1.0-2-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/share/cache-protocols
