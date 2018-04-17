@@ -387,40 +387,54 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/orbit 2.2.4-1-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'orbit 2.2.4-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/orbit 2.2.4-1-build'
+- **Error:** Could not install package 'orbit 2.2.4-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/orbit 2.2.4-1-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/example.md
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/license.html
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/reference.md
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/license.md
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/reference.html
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/example.html
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/markdown.lua
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/pages.html
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/orbit.png
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/pages.md
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/index.html
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/makedoc.lua
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/index.md
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/doc.css
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/makedoc.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/reference.md
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/index.html
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/reference.html
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/markdown.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/license.md
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/pages.md
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/example.md
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/license.html
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/orbit.png
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/example.html
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/doc/us/pages.html
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/hello
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/hello/hello.lua
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/hello/hello.ws
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.sql
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.db
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.op
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/items.op
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.ws
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/jquery-1.2.3.min.js
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.ws
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.op
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/todo.sql
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/todo/items.op
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/README
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog_schema.sql
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog.ws
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog.db
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/header.xcf
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog_config.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog.dump.sqlite3
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/markdown.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/.htaccess
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/style.css
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/populate_mysql.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/head.jpg
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/random_text.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/dump.lua
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/blog/blog_schema.mysql
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/pages
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/pages/test.op
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/pages/css
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/orbit/samples/pages/css/doc.css
 
 stderr:
 CMake Error at cmake_install.cmake:36 (file):
