@@ -58,4 +58,4 @@
 
 ### lua-brotli 1.0-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lua-brotli 1.0-2/lua-brotli-1.0-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-brotli 1.0-2': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'lua-brotli 1.0-2': Unhandled rockspec build type: "make"
