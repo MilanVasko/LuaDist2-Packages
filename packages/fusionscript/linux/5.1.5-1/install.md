@@ -170,17 +170,17 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/fusionscript 0.3.2-1-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'fusionscript 0.3.2-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/fusionscript 0.3.2-1-build'
+- **Error:** Could not install package 'fusionscript 0.3.2-1' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/fusionscript 0.3.2-1-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/share/fusionscript
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-ast
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-source
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusionc-source
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-lint
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-pkg
--- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusionc-source
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-ast
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusionc
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-source
+-- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/bin/fusion-pkg
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/lib/lua/fusion/core/compilers/source.lua
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/lib/lua/fusion/core/parser.lua
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/lib/lua/fusion/stdlib/class.lua
