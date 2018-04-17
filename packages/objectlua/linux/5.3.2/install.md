@@ -58,4 +58,4 @@
 
 ### objectlua 0.4.10-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/objectlua 0.4.10-1/objectlua-0.4.10-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'objectlua 0.4.10-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'objectlua 0.4.10-1': Unhandled rockspec build type: "module"
