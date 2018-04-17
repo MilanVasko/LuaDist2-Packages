@@ -58,4 +58,4 @@
 
 ### mixlua 0.2.7-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/mixlua 0.2.7-2/mixlua-0.2.7-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'mixlua 0.2.7-2': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'mixlua 0.2.7-2': Unhandled rockspec build type: "module"
