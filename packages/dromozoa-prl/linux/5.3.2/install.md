@@ -124,4 +124,4 @@
 
 ### dromozoa-unix 1.46-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/dromozoa-unix 1.46-1/dromozoa-unix-1.46-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'dromozoa-unix 1.46-1': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'dromozoa-unix 1.46-1': Unhandled rockspec build type: "command"
