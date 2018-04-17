@@ -58,4 +58,4 @@
 
 ### nixio 0.3-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/nixio 0.3-1/nixio-0.3-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'nixio 0.3-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'nixio 0.3-1': Unhandled rockspec build type: "make"
