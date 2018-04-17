@@ -58,4 +58,4 @@
 
 ### jsonnet 0.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/jsonnet 0.1-1/jsonnet-0.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'jsonnet 0.1-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'jsonnet 0.1-1': Unhandled rockspec build type: "make"
