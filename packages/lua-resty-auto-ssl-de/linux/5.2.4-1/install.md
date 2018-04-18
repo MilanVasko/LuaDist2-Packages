@@ -89,4 +89,4 @@
 
 ### lua-resty-auto-ssl-de 0.11.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lua-resty-auto-ssl-de 0.11.1-1/lua-resty-auto-ssl-de-0.11.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-resty-auto-ssl-de 0.11.1-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'lua-resty-auto-ssl-de 0.11.1-1': Unhandled rockspec build type: "make"
