@@ -58,4 +58,4 @@
 
 ### slncrypto 1.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/slncrypto 1.1-1/slncrypto-1.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'slncrypto 1.1-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'slncrypto 1.1-1': Unhandled rockspec build type: "module"
