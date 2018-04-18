@@ -232,7 +232,7 @@
     - `INSTALL_LMOD` = lib/lua
     - `INSTALL_SHARE` = share
 - Executing 'cd "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/stuart-ml 0.1.3-0-build" && cmake -P cmake_install.cmake'
-- **Error:** Cound not install package 'stuart-ml 0.1.3-0' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/stuart-ml 0.1.3-0-build'
+- **Error:** Could not install package 'stuart-ml 0.1.3-0' from directory '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/stuart-ml 0.1.3-0-build'
 stdout:
 -- Install configuration: ""
 -- Installing: /home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/share/stuart-ml
