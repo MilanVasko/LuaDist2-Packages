@@ -58,4 +58,4 @@
 
 ### luatabledump 1.0-0
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/luatabledump 1.0-0/luatabledump-1.0-0.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luatabledump 1.0-0': Unhandled rockspec build type: buildin
+- **Error:** Could not generate cmake commands for package 'luatabledump 1.0-0': Unhandled rockspec build type: "buildin"
