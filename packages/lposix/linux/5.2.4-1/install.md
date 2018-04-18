@@ -58,4 +58,4 @@
 
 ### lposix 20031107-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lposix 20031107-1/lposix-20031107-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lposix 20031107-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'lposix 20031107-1': Unhandled rockspec build type: "module"
