@@ -58,4 +58,4 @@
 
 ### setuid 1.0-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/setuid 1.0-1/setuid-1.0-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'setuid 1.0-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'setuid 1.0-1': Unhandled rockspec build type: "make"
