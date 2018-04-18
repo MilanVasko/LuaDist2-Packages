@@ -58,4 +58,4 @@
 
 ### lua-resty-murmurhash3 1.0.0-0
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lua-resty-murmurhash3 1.0.0-0/lua-resty-murmurhash3-1.0.0-0.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-resty-murmurhash3 1.0.0-0': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'lua-resty-murmurhash3 1.0.0-0': Unhandled rockspec build type: "command"
