@@ -124,4 +124,4 @@
 
 ### wtf-plugin-honeybot-fake-welcome-data 0.1-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/wtf-plugin-honeybot-fake-welcome-data 0.1-2/wtf-plugin-honeybot-fake-welcome-data-0.1-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'wtf-plugin-honeybot-fake-welcome-data 0.1-2': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'wtf-plugin-honeybot-fake-welcome-data 0.1-2': Unhandled rockspec build type: "command"
