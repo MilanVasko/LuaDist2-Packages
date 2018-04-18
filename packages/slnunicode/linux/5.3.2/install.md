@@ -58,4 +58,4 @@
 
 ### slnunicode 1.1-2
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/slnunicode 1.1-2/slnunicode-1.1-2.rockspec'
-- **Error:** Cound not generate cmake commands for package 'slnunicode 1.1-2': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'slnunicode 1.1-2': Unhandled rockspec build type: "module"
