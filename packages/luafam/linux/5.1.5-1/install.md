@@ -58,4 +58,4 @@
 
 ### luafam 1.0.0-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luafam 1.0.0-1/luafam-1.0.0-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luafam 1.0.0-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luafam 1.0.0-1': Unhandled rockspec build type: "make"
