@@ -58,4 +58,4 @@
 
 ### lpack 20070629-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/lpack 20070629-1/lpack-20070629-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lpack 20070629-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'lpack 20070629-1': Unhandled rockspec build type: "module"
