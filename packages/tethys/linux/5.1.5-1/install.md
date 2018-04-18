@@ -253,4 +253,4 @@
 
 ### luadns 1.0.0-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luadns 1.0.0-1/luadns-1.0.0-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luadns 1.0.0-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luadns 1.0.0-1': Unhandled rockspec build type: "make"
