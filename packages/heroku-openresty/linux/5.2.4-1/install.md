@@ -58,4 +58,4 @@
 
 ### heroku-openresty 1.2.8.6-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.2.4-1/tmp/heroku-openresty 1.2.8.6-1/heroku-openresty-1.2.8.6-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'heroku-openresty 1.2.8.6-1': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'heroku-openresty 1.2.8.6-1': Unhandled rockspec build type: "command"
