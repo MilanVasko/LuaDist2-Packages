@@ -89,4 +89,4 @@
 
 ### leda 0.3.8-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/leda 0.3.8-1/leda-0.3.8-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'leda 0.3.8-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'leda 0.3.8-1': Unhandled rockspec build type: "make"
