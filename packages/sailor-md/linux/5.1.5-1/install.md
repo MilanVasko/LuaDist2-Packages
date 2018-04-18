@@ -258,4 +258,4 @@
 
 ### lbase64 20120820-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/lbase64 20120820-1/lbase64-20120820-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lbase64 20120820-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'lbase64 20120820-1': Unhandled rockspec build type: "module"
