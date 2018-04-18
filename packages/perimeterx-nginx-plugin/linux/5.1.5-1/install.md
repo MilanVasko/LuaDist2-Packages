@@ -182,4 +182,4 @@
 
 ### perimeterx-nginx-plugin 3.3-0
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/perimeterx-nginx-plugin 3.3-0/perimeterx-nginx-plugin-3.3-0.rockspec'
-- **Error:** Cound not generate cmake commands for package 'perimeterx-nginx-plugin 3.3-0': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'perimeterx-nginx-plugin 3.3-0': Unhandled rockspec build type: "make"
