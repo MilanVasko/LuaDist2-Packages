@@ -58,4 +58,4 @@
 
 ### luagl 1.01-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luagl 1.01-1/luagl-1.01-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luagl 1.01-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'luagl 1.01-1': Unhandled rockspec build type: "module"
