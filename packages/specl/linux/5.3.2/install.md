@@ -62,4 +62,4 @@
 
 ### stdlib 34.1-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/stdlib 34.1-1/stdlib-34.1-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'stdlib 34.1-1': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'stdlib 34.1-1': Unhandled rockspec build type: "command"
