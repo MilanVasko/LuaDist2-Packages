@@ -58,4 +58,4 @@
 
 ### teateatea 1.3-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/teateatea 1.3-1/teateatea-1.3-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'teateatea 1.3-1': Unhandled rockspec build type: command
+- **Error:** Could not generate cmake commands for package 'teateatea 1.3-1': Unhandled rockspec build type: "command"
