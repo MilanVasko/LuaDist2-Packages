@@ -93,4 +93,4 @@
 
 ### json4lua 0.9.30-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/json4lua 0.9.30-1/json4lua-0.9.30-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'json4lua 0.9.30-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'json4lua 0.9.30-1': Unhandled rockspec build type: "module"
