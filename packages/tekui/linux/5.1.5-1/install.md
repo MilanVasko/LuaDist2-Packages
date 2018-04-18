@@ -58,4 +58,4 @@
 
 ### tekui 1.07-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/tekui 1.07-1/tekui-1.07-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'tekui 1.07-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'tekui 1.07-1': Unhandled rockspec build type: "make"
