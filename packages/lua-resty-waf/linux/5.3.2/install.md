@@ -58,4 +58,4 @@
 
 ### lua-resty-waf 0.8.2-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/lua-resty-waf 0.8.2-1/lua-resty-waf-0.8.2-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lua-resty-waf 0.8.2-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'lua-resty-waf 0.8.2-1': Unhandled rockspec build type: "make"
