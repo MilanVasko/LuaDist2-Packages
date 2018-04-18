@@ -58,4 +58,4 @@
 
 ### luagraph 1.0.4-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/luagraph 1.0.4-1/luagraph-1.0.4-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'luagraph 1.0.4-1': Unhandled rockspec build type: make
+- **Error:** Could not generate cmake commands for package 'luagraph 1.0.4-1': Unhandled rockspec build type: "make"
