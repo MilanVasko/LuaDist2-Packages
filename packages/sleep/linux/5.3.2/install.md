@@ -99,38 +99,38 @@ CMake Error at /usr/local/cmake-3.9.2/share/cmake-3.9/Modules/CMakeTestCCompiler
 
   
 
-  Run Build Command:"/usr/bin/make" "cmTC_ed081/fast"
+  Run Build Command:"/usr/bin/make" "cmTC_f2801/fast"
 
-  /usr/bin/make -f CMakeFiles/cmTC_ed081.dir/build.make
-  CMakeFiles/cmTC_ed081.dir/build
+  /usr/bin/make -f CMakeFiles/cmTC_f2801.dir/build.make
+  CMakeFiles/cmTC_f2801.dir/build
 
   make[1]: Entering directory
   `/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/sleep
   1.0.0-3-build/CMakeFiles/CMakeTmp'
 
-  Building C object CMakeFiles/cmTC_ed081.dir/testCCompiler.c.o
+  Building C object CMakeFiles/cmTC_f2801.dir/testCCompiler.c.o
 
-  /usr/bin/gcc -o CMakeFiles/cmTC_ed081.dir/testCCompiler.c.o -c
+  /usr/bin/gcc -o CMakeFiles/cmTC_f2801.dir/testCCompiler.c.o -c
   "/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/sleep
   1.0.0-3-build/CMakeFiles/CMakeTmp/testCCompiler.c"
 
-  Linking C executable cmTC_ed081
+  Linking C executable cmTC_f2801
 
   /usr/local/cmake-3.9.2/bin/cmake -E cmake_link_script
-  CMakeFiles/cmTC_ed081.dir/link.txt --verbose=1
+  CMakeFiles/cmTC_f2801.dir/link.txt --verbose=1
 
   /usr/bin/gcc $(CFLAGS) -rdynamic
-  CMakeFiles/cmTC_ed081.dir/testCCompiler.c.o -o cmTC_ed081
+  CMakeFiles/cmTC_f2801.dir/testCCompiler.c.o -o cmTC_f2801
 
   gcc: error: $(CFLAGS): No such file or directory
 
-  make[1]: *** [cmTC_ed081] Error 1
+  make[1]: *** [cmTC_f2801] Error 1
 
   make[1]: Leaving directory
   `/home/travis/build/LuaDist-testing/_luadist_install/lua 5.3.2/tmp/sleep
   1.0.0-3-build/CMakeFiles/CMakeTmp'
 
-  make: *** [cmTC_ed081/fast] Error 2
+  make: *** [cmTC_f2801/fast] Error 2
 
   
 
