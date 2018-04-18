@@ -58,4 +58,4 @@
 
 ### lascii85 20120927-1
 - Loaded rockspec from '/home/travis/build/LuaDist-testing/_luadist_install/lua 5.1.5-1/tmp/lascii85 20120927-1/lascii85-20120927-1.rockspec'
-- **Error:** Cound not generate cmake commands for package 'lascii85 20120927-1': Unhandled rockspec build type: module
+- **Error:** Could not generate cmake commands for package 'lascii85 20120927-1': Unhandled rockspec build type: "module"
